@@ -1,7 +1,4 @@
 # Exercise Tracker
-#### Solution running on : [https://replit.com/@ViktoriusSuwand/Exercise-Tracker-Project-7](https://replit.com/@ViktoriusSuwand/Exercise-Tracker-Project-7)
-
-#### Documentation can be found on : [https://github.com/viktoriussuwandi/Exercise-Tracker](https://github.com/viktoriussuwandi/Exercise-Tracker)
 
 This is the result to complete the Exercise Tracker project.
 Instructions for building this project can be found at 
